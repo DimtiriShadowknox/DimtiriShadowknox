@@ -8,3 +8,20 @@ Aspiring Cybersecurity Analyst focused on threat detection, security operations,
 ## Objective
 
 Looking to break into cybersecurity where I can apply what I’ve learned, keep building my skills, and contribute to protecting systems and data in a meaningful way.
+
+
+## TECHNICAL SKILLS	
+
+Security Tools: Metasploit, Snort, Splunk, Nmap, OSINT, Wireshark, Burp Suite, SIEM, EDR, IDS/IPS, Active Directory
+
+Networking: Firewalls, Wireshark
+
+Operating Systems: Linux, Windows, Virtual Machines,  Cloud Native APIs 
+
+Programming Languages: Python, Scripting, Command Line, Bash, PowerShell
+
+
+## Certifications: 
+- CompTIA Security+ (Expected May 2026)
+- Google Analytics Certification (April 2026)
+- Introduction to Data Science (March 2026)
